@@ -60,10 +60,17 @@ img{
 .recipes_box {
     width: 30%;
     margin: 2% 3%;
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 50px gray;
     padding: 15px;
     border-radius: 10px;
 }
 .recipes_box img {
     border-radius: 10px;
+}
+.recipes_box h3 {
+    text-align: center;
+    font-weight: 700;
+}
+.recipes_box p {
+    color: #7f8c8d;
 }
