@@ -2,3 +2,28 @@ body {
     margin: 0;
     font-family: 'Oswald', sans-serif; 
 }
+#food_network{
+    margin: 50px 0px;
+}
+.flex {
+    display: flex;
+}
+h1{
+    font-size: 2em;
+    font-weight: 700;
+}
+p{
+    text-align: justify;
+}
+.food_network_content {
+    margin-left: 50px;
+}
+img{
+    width: 100%;
+}
+.food_network_img img {
+    margin-right: 100px;
+}
+.font_color {
+    color: #e67e22;
+}
