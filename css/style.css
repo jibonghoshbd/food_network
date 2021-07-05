@@ -9,11 +9,12 @@ body {
     display: flex;
 }
 h1{
-    font-size: 2em;
+    font-size: 50px;
     font-weight: 700;
 }
 p{
     text-align: justify;
+    font-size: 18px;
 }
 .food_network_content {
     margin-left: 50px;
@@ -26,4 +27,15 @@ img{
 }
 .font_color {
     color: #e67e22;
+}
+.link_style {
+    text-decoration: none;
+    background: linear-gradient(#d35400, #f39c12);
+    padding: 10px 20px;
+    border-radius: 50px;
+    color: #fff;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 15px;
+    display: inline-block;
 }
