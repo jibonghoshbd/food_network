@@ -101,3 +101,22 @@ img{
     color: #7f8c8d;
     font-weight: 700;
 }
+#customer_reviews{
+    margin: 100px 0px;
+}
+#customer_reviews h1 {
+    text-align: center;
+}
+.customer_wrapper {
+    display: flex;
+}
+.single_customer {
+    width: 30%;
+    margin: 2% 3%;
+    box-shadow: 10px 10px 50px #34495e;
+    padding: 15px;
+    border-radius: 10px;
+}
+.single_customer img {
+    border-radius: 10px;
+}
