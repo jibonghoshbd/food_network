@@ -103,6 +103,8 @@ img{
 }
 #customer_reviews{
     margin: 100px 0px;
+    border-top: 5px solid #ddd;
+    border-bottom: 5px solid #ddd;
 }
 #customer_reviews h1 {
     text-align: center;
