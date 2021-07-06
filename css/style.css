@@ -52,6 +52,11 @@ img{
     width: 40%;
     margin: auto;
 }
+.recipes_content h2 {
+    color:#d35400;
+    font-size: 40px;
+    text-transform: uppercase;
+}
 .recipes_content {
     width: 70%;
     margin: auto;
