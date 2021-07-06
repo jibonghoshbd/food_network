@@ -53,6 +53,7 @@ img{
     width: 70%;
     margin: auto;
     text-align: center;
+    margin-top: 80px;
 }
 .my_recipes_wrapper {
     display: flex;
@@ -105,6 +106,7 @@ img{
     margin: 100px 0px;
     border-top: 5px solid #ddd;
     border-bottom: 5px solid #ddd;
+    padding-bottom: 80px;
 }
 #customer_reviews h1 {
     text-align: center;
