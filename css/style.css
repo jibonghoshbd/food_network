@@ -111,10 +111,10 @@ img{
     font-weight: 700;
 }
 #customer_reviews{
-    margin: 100px 0px;
-    border-top: 5px solid #ddd;
-    border-bottom: 5px solid #ddd;
-    padding-bottom: 80px;
+    background-image: url('../images/shapes/7.png');
+   position: center;
+   background-repeat: no-repeat;
+   margin: 100px 0px;
 }
 #customer_reviews h1 {
     text-align: center;
